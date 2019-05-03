@@ -1,20 +1,21 @@
 ---
 title: "Introducción a Rstudio"
-author: "Soledad Mallorquín, Gabriel Blanco "
+author: "Martín Blanco, Soledad Mallorquín"
 output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 # Instalando R paso a paso.
 
 1. Digite la siguiente dirección: https://www.r-project.org/ y de clic en CRAN para acceder a la lista de servidores R.
 
-![](C:\tallerR\imagen1.png)
+![](C:\Taller-R\imagen1.png)
 
 2. Escoja el servidor espejito; Note que en Uruguay, la UDELAR es la única Universidad con servidores R.
+
+![](C:\Taller-R\imagen2.png)
 
 3. De clic en Download R for Windows y siga paso paso las ventanas que se detallan a continuación hasta que empiece a descargar el programa.
 
