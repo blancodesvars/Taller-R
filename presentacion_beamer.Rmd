@@ -1,14 +1,14 @@
 ---
+title: "presentacion_beamer"
 author: "Soledad Mallorquín"
-date: "3/5/2019"
-output: powerpoint_presentation
-
+date: "4/5/2019"
+output: ioslides_presentation
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## R es …
-
+## R es
 **- Un lenguaje** y ambiente para hacer estadística
 computacional y gráfica.
 Es el software más comunmente utilizado 
@@ -31,7 +31,6 @@ l código que está disponible para el usuario
 a tarea se logran con pequeños cambios en el código
 que está disponible para el usuario
 
-
 ## Qué puede hacer R
 
 * Gráficos, estadística, machine learning, etc.
@@ -44,7 +43,65 @@ dinámicos)
 * Aplicaciones web (páginas web, blogs, shiny
 apps)
 
-## ckjvn
+## Cómo instalar R
+
+* R se actualiza dos veces al año y es
+recomendable tenerlo actualizado
+
+* Ir a [http://www.r-project.org]
+
+* Seleccionar el link CRAN (Comprehensive R
+Archive Network ), seleccione el servidor
+ESPEJITO; URUGUAY [http://espejito.fder.edu.uy/cran]
+
+
+* Seleccionar un mirror para bajar R (el más
+cercano geográficamente no siempre es el
+mejor)
+
+* Bajar e instalar R para el sistema operativo
+de tu computadora
+
+## IDE
+Recomendable usar un IDE (entorno de
+desarrollo integrado) para facilitar el desarrollo
+de código en R entre otros.
+
+**IDE ejemplos:**
+
+   * En esta clase vamos a usar RStudio
+
+   * Tinn-R
+
+   * R commander
+
+   * RStudio
+   
+## RStudio IDE
+
+**IDE:** Integrated Development Environment for R
+_Porqué usarlo?_
+
+* Integra las herramientas que uno usa en R
+en un único ambiente
+* Resalta el código, completa código e
+indentación inteligente
+* Ejecuta código R directamente desde el
+editor de origen
+* Salta rápidamente a las definiciones de
+funciones
+* Se ejecuta en la mayoría de los escritorios o
+en servidores pero también puede accederse
+en la web
+* Incluye poderosas herramientas para
+programar diseñadas para mejorar tu
+productividad
+* Facilita una rápida navegación a archivos y
+funciones
+
+
+## R Markdown
+
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
