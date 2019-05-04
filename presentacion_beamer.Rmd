@@ -26,10 +26,9 @@ github.
 adecuadas se puede hacer el trabajo más
 rápido y mejor
 
-**- Flexible:** pequeños cambios en lambios en 
-l código que está disponible para el usuario 
-a tarea se logran con pequeños cambios en el código
-que está disponible para el usuario
+**- Flexible:** pequeños cambios en la tarea se
+logran con pequeños cambios en el código
+que está disponible para el usuario.
 
 ## Qué puede hacer R
 
