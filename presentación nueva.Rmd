@@ -1,0 +1,104 @@
+---
+title: "Introducción a R"
+author: "Martín Blanco, Soledad Mallorquín"
+date: "5/5/2019"
+output: 
+  beamer_presentation:
+    theme: "Antibes"
+    colortheme: "beaver"
+    fonttheme: "structurebold"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## R es
+**- Un lenguaje** y ambiente para hacer estadística
+computacional y gráfica.
+Es el software más comunmente utilizado 
+en la sciencia de datos kdnuggets,
+De uso **gratis** y **abierto** por
+lo que podemos ver el código
+
+**- Extensible:** más de 12000 contribuciones de
+paquetes en CRAN (The Comprehensive R
+Archive Network)! Bioconductor tiene más de
+1400 paquetes y hay otros disponibles en
+github.
+
+**- Potente**: Usando las herramientas
+adecuadas se puede hacer el trabajo más
+rápido y mejor
+
+**- Flexible:** pequeños cambios en la tarea se
+logran con pequeños cambios en el código
+que está disponible para el usuario.
+
+## Qué puede hacer R
+
+* Gráficos, estadística, machine learning, etc.
+
+* Leer, manipular y modificar datos
+
+* Programación alfabetizada (reportes
+dinámicos)
+
+* Aplicaciones web (páginas web, blogs, shiny
+apps)
+
+## Cómo instalar R
+
+* R se actualiza dos veces al año y es
+recomendable tenerlo actualizado
+
+* Ir a [http://www.r-project.org]
+
+* Seleccionar el link CRAN (Comprehensive R
+Archive Network ), seleccione el servidor
+ESPEJITO; URUGUAY [http://espejito.fder.edu.uy/cran]
+
+
+* Seleccionar un mirror para bajar R (el más
+cercano geográficamente no siempre es el
+mejor)
+
+* Bajar e instalar R para el sistema operativo
+de tu computadora
+
+## IDE
+Recomendable usar un IDE (entorno de
+desarrollo integrado) para facilitar el desarrollo
+de código en R entre otros.
+
+**IDE ejemplos:**
+
+   * En esta clase vamos a usar RStudio
+
+   * Tinn-R
+
+   * R commander
+
+   * RStudio
+   
+## RStudio IDE
+
+**IDE:** Integrated Development Environment for R
+_Porqué usarlo?_
+
+* Integra las herramientas que uno usa en R
+en un único ambiente
+* Resalta el código, completa código e
+indentación inteligente
+* Ejecuta código R directamente desde el
+editor de origen
+* Salta rápidamente a las definiciones de
+funciones
+* Se ejecuta en la mayoría de los escritorios o
+en servidores pero también puede accederse
+en la web
+* Incluye poderosas herramientas para
+programar diseñadas para mejorar tu
+productividad
+* Facilita una rápida navegación a archivos y
+funciones
+
